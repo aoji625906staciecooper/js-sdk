@@ -64,3 +64,4 @@ This example demonstrates:
 - `"type": "module"` in package.json to enable ESM
 - No build step required (JavaScript runs directly)
 - Workspace dependencies with `"@streamflow/stream": "workspace:*"` 
+<!-- Auto-update: 2025-10-06T21:54:24.321101 -->
