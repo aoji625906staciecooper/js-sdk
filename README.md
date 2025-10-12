@@ -64,3 +64,5 @@ Check out our [RELEASE NOTES](./RELEASE_NOTES.md) for the latest updates and mig
 
 ## News
 Stay updated on our [X/Twitter](https://x.com/streamflow_fi).
+
+<!-- Auto-update: 2025-10-12T11:53:11.005664 -->
